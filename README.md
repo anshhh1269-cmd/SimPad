@@ -30,7 +30,7 @@ Filtering: Capacitors ($C1, C2$) are placed to smooth out voltage noise for stab
 
 <img width="1375" height="736" alt="Screenshot 2026-06-29 123144" src="https://github.com/user-attachments/assets/ee10eb24-4f3f-4bdf-99bc-d067eaca29b6" />
 
-<img width="1022" height="652" alt="Screenshot 2026-06-29 121659" src="https://github.com/user-attachments/assets/00129dfe-aec4-4ecd-a53a-15314cfcf99e" />
+
 
 
 
